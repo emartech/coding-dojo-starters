@@ -1,0 +1,9 @@
+{
+    "name": "emartech/coding-dojo-starter",
+    "autoload": {
+        "psr-4": {
+            "Emartech\\CodingDojoStarter\\": "src/"
+        }
+    },
+    "require": {}
+}
