@@ -1,2 +1,4 @@
-.idea
+**/.idea
 php/vendor
+java/.gradle
+java/build
